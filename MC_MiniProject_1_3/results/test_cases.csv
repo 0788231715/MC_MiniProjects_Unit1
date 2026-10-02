@@ -1,0 +1,8 @@
+case,statement,recommended_generation,justification
+1,I need low-latency control for a robotic arm,5G,"5G (NR) is the first generation to address URLLC (sub-1 ms) and mMTC (10^6 devices/km2) alongside eMBB, enabling industrial control and massive IoT."
+2,Send short text messages between users,2G,"2G (GSM) unified a European air interface, introduced authentication and ciphering, and created SMS."
+3,Provide video calling between two mobile subscribers,3G,"3G (UMTS/CDMA2000) delivered the first true mobile broadband, supporting video calling and web browsing at hundreds of kbit/s."
+4,Support one million IoT sensors per square kilometre,unmapped,"No keyword matched. The statement does not map cleanly to a single generation, or uses vocabulary outside the tool's hand-curated rule set."
+5,I want an always-on internet connection for bursty browsing,2.5G,"2.5G (GPRS/EDGE) moved from circuit switching to packet switching, enabling always-on bursty data and volume billing."
+6,Make sure the network can do holographic telepresence,6G,"6G (IMT-2030 research) targets holographic/tactile communication, sub-THz spectrum, and AI-native networking; use cases are defined but not yet standardised."
+7,I want to broadcast FM radio to cars,unmapped,"No keyword matched. The statement does not map cleanly to a single generation, or uses vocabulary outside the tool's hand-curated rule set."
